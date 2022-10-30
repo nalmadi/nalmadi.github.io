@@ -3,7 +3,7 @@ layout: post
 title: "The Ideal First Resume"
 author: "Naser"
 categories: post
-tags: [post, Featured]
+tags: [post]
 image: kelly-sikkema-VBPzRgd7gfc-unsplash.jpg
 ---
 
