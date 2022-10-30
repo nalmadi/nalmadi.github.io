@@ -2,8 +2,8 @@
 layout: post
 title: "Why CS at Colby?"
 author: "Naser"
-categories: post
-tags: [post]
+categories: post, Featured
+tags: [post, Featured]
 image: Miller.jpg
 ---
 
