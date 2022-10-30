@@ -1,6 +1,10 @@
 ---
-published: true
-title: My Favorite CS YouTube Channels
+layout: post
+title: "My Favorite CS YouTube Channels"
+author: "Naser"
+categories: post
+tags: [Post]
+image: christian-wiediger-NmGzVG5Wsg8-unsplash.jpg
 ---
 
 

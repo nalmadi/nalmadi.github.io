@@ -1,8 +1,12 @@
 ---
-published: true
 layout: post
-title: The Ideal First Resume
+title: "The Ideal First Resume"
+author: "Naser"
+categories: post
+tags: [Post]
+image: kelly-sikkema-VBPzRgd7gfc-unsplash.jpg
 ---
+
 
 Putting together your first resume can be intimidating.  In this post, I will show you how you can write an “ideal” first resume even if you think you don’t have enough experiences to fill a single page.  Without ado is furthered any longer, here’s what you should include (in my opinion):
 

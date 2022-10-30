@@ -1,10 +1,12 @@
 ---
-published: true
 layout: post
-title: Student Spotlight - Quan Phan ‘25 (Holistics)
+title: "Student Spotlight - Quan Phan ‘25 (Holistics)"
+author: "Naser"
+categories: Interview
+tags: [Interview, student]
+image: 1662000847643.jpg
 ---
 
-![quan]({{site.baseurl}}/images/1662000847643.jpg)
 
 This post is part of a student spotlight series highlighting the work of exceptional students.  The series aims to facilitate knowledge sharing among students on topics such as internships, jobs, and graduate school.  Today, I have the pleasure of talking to Quan Phan ‘25, a rising sophomore who will tell us about his internship experience this summer.
 

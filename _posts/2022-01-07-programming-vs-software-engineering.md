@@ -1,7 +1,10 @@
 ---
-published: true
 layout: post
-title: Software Engineering is a Restaurant!
+title: "Software Engineering is a Restaurant!"
+author: "Naser"
+categories: post
+tags: [Post]
+image: hans-vivek-D3l1y9tPVso-unsplash.jpg
 ---
 
 A common misconception even among new members of the software engineering community is that software engineering is the same as programming. To explain the difference between programming and software engineering I will use the cooking vs. restaurant metaphor. For some reason all my examples and metaphors are food related, but that’s not central to our topic today.

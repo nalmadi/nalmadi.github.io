@@ -1,6 +1,13 @@
 ---
-published: true
+layout: post
+title: "On Facilitating Teams In The Classroom"
+author: "Naser"
+categories: post
+tags: [Post]
+image: michal-parzuchowski-lHkUBtUiI2Q-unsplash.jpg
 ---
+
+
 Admittedly, I have been an opponent of team projects in introductory computer science courses for a while.  My opposition was partially motivated by the impression that team projects would take away from the valuable learning experiences and joy of figuring things on my own in introductory courses.  Moreover, I thought that team projects in early programming courses would produce students who are unable to program on their own.  I remain hesitant, although evidence from pair-programming research motivates me to experiment with team projects in introductory courses in the future.
 
 My hesitance towards team projects diminishes when it comes to upper-level courses.  In fact, I believe that team projects should be an integral part of advanced computer science curriculum. Software today is mostly created by teams, and learning how to navigate and manage teamwork is vital in professional software development.  My past experience with creating team projects in upper-level courses has been a mixed bag of successes and failures, but informative nonetheless.  

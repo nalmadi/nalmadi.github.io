@@ -1,10 +1,11 @@
 ---
-published: true
 layout: post
-title: Student Spotlight - Izzy Hurley ‘23 (Garmin)
+title: "Student Spotlight - Izzy Hurley ‘23 (Garmin)"
+author: "Naser"
+categories: Interview
+tags: [Interview, student]
+image: Izzy.jpeg
 ---
-
-![Izzy]({{site.baseurl}}/images/Izzy.jpeg)
 
 This post is part of a student spotlight series highlighting the work of exceptional students.  The series aims to facilitate knowledge sharing among students on topics such as internships, jobs, and graduate school.  Today, I have the pleasure of talking to Izzy Hurley ‘23, a rising senior who will tell us about her internship experience at Garmin this summer.
 

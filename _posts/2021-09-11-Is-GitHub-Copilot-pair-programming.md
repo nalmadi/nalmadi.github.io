@@ -1,8 +1,13 @@
 ---
-published: true
 layout: post
-title: Is GitHub Copilot Pair Programming?
+title: "Is GitHub Copilot Pair Programming?"
+author: "Naser"
+categories: post
+tags: [Post]
+image: 
 ---
+
+
 I can’t hide that I am impressed by GitHub Copilot, and I encourage you to see it for [yourself](https://youtu.be/PNa6JECMS8A) if you haven’t already.  Basically, it is an AI tool that automatically writes code snippets (or entire programs) from comments and existing code context.  It is built on top of the fascinating language modeling AI GPT-3.  I remember showing my CS1 students a well-made video by 2 Minutes Papers on GPT-3 using natural language and how amazed we all were by this new technology.  I will leave a link for the video [here]( https://youtu.be/_x9AwxfjxvE), also I recommend subscribing to the 2 Minutes Papers channel if you like to get a 2-minute review of some interesting AI-related research.
 
 GitHub Copilot claims to be an automated pair-programming tool, but I am a little skeptical despite being impressed and thinking that Copilot has merit beyond being a cool party piece.  Pair-programming is a software development methodology where two programmers write code together and alternate roles as “driver” and “navigator.”  The adoption of pair-programming in the industry is patchy at best, and in academia I hold the opinion that it is overhyped a bit.  Many of the empirical research done to illustrate the value of pair-programming comes from experiments done in academic settings, and the results tend to show that programmers enjoy this technique for its social aspects.  I believe that pair-programming is great for knowledge sharing in an organization, as it results in having two programmers who are familiar with any piece of code.  Also, undeniably the code quality will be higher if two people work on it.  Some of the disadvantages include being difficult to adopt (sometimes) and resulting in longer development time.  In fact, research shows that pair-programming is faster than a single programmer, but slower than two.

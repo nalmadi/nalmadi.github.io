@@ -1,10 +1,11 @@
 ---
-published: true
 layout: post
-title: Student Spotlight - Parth Parth ‘25 (Omprakash)
+title: "Student Spotlight - Parth Parth ‘25 (Omprakash)"
+author: "Naser"
+categories: Interview
+tags: [Interview, student]
+image: 1658589370406.jpg
 ---
-
-![parth]({{site.baseurl}}/images/1658589370406.jpg)
 
 This post is part of a student spotlight series highlighting the work of exceptional students.  The series aims to facilitate knowledge sharing among students on topics such as internships, jobs, and graduate school.  Today, we interview Parth Parth '25, a rising sophomore who will tell us about his internship experience this summer.
 
