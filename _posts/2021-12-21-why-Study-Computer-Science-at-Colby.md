@@ -14,13 +14,13 @@ When asked about career paths, I always mention the purpose equation which consi
 Purpose = Passion + Skill + Utility
 ```
 
-![purpose]({{site.baseurl}}/images/purpose.jpg)
+![purpose]({{site.baseurl}}/assets/img/purpose.jpg)
 On the Venn diagram where what you like, what you are good at, and what is available intersect you will find your purpose.  I think finding your purpose in life is a lifelong journey, so don’t feel bad if you don’t have a clear vision yet.  Liberal arts education is perfect for people who have many skills and many passions to explore. In this post, I present my honest opinion on why I think studying Computer Science at Colby is an excellent choice.
 
 # There are jobs!
 According to U.S. Bureau of Labor Statistics the occupational outlook for software development appears to be amazing.  The numbers shown in the figure below are from 2020, and they include projections for the next 10 years.  The median pay in the field is $110,140 per year, for an average person with Bachelor's degree and no previous experience.  Perhaps the most important number for someone considering starting a CS major/minor is job outlook for the next 10 years.  The report shows that the number of jobs is expected to grow by 22% (Much faster than average).  This means that the job market is going to be great for at least 10 years.
 
-![job outlook]({{site.baseurl}}/images/occupational_outlook.jpg)
+![job outlook]({{site.baseurl}}/assets/img/occupational_outlook.jpg)
 
 # Computer Science Relates to Every Aspect of Life
 You can combine hobbies and other fields with computer science.  If you like health, food, travel, space exploration, nature or almost anything else, I am confident that you can find ways to combine that with computer science.
