@@ -2,7 +2,7 @@
 layout: post
 title: "Computer Science Is Where You Belong!"
 author: "Naser"
-categories: post, Featured
+categories: post
 tags: [post, Featured]
 image: duy-pham-Cecb0_8Hx-o-unsplash.jpg
 ---
