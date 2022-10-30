@@ -2,5 +2,5 @@
 layout: category
 title: Posts
 category: post
-permalink: /posts
+permalink: /all-posts
 ---
