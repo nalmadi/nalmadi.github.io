@@ -2,7 +2,7 @@
 layout: post
 title: "How to be a Successful Computing Student?"
 author: "Naser"
-categories: post
+categories: post,Featured
 tags: [post,Featured]
 image: goran-ivos-iOykDIkZLQw-unsplash.jpg
 ---
