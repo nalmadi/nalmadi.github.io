@@ -7,6 +7,7 @@ disqus:
 google-ID: ''
 
 menu:
+- {name: 'Featured',      url: 'Featured'}
 - {name: 'Posts',      url: 'Posts'}
 - {name: 'Interviews', url: 'Interviews'}
 # - {name: 'About',      url: 'https://cs.colby.edu/nsalmadi/'}
