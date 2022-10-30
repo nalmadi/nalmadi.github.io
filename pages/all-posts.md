@@ -1,6 +1,6 @@
 ---
 layout: category
-title: Posts
+title: "All Posts"
 category: post
 permalink: /all-posts
 ---
