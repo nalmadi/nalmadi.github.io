@@ -1,6 +1,6 @@
 ---
 layout: category
 title: Posts
-category: Posts
-permalink: /Posts
+category: posts
+permalink: /posts
 ---
