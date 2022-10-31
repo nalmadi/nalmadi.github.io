@@ -4,7 +4,7 @@ title: "Is GitHub Copilot Pair Programming?"
 author: "Naser"
 categories: post
 tags: [Post]
-image: 
+image: alvaro-reyes-fSWOVc3e06w-unsplash.jpg
 ---
 
 
