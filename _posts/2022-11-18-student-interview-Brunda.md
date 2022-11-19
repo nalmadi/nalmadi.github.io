@@ -36,7 +36,7 @@ Brunda: I think the biggest tip I have for students interested in doing an inter
 
 Brunda: Yes, I am the president of the e-NABLE club at Colby! We are a club that 3-D prints prosthetic upper limb devices, which is significantly cheaper than the traditional method. The club is a way to learn how to 3-D print, assemble prosthetics, and find cases to work on. You need no experience to join, and it is a great way to pick up new skills and help those in need!
 
-**Naser: This is very interesting, how can students join the club? **
+**Naser: This is very interesting, how can students join the club?**
 
 Brunda: Students can join the club by emailing me!
 
