@@ -1,13 +1,13 @@
 ---
 layout: post
-title: "Student Spotlight - Brunda Katikireddy ‘23 (Uplight)"
+title: "Student Spotlight - Brunda Katikireddy ‘24 (Uplight)"
 author: "Naser"
 categories: Interview
 tags: [Interview, student]
 image: e-nable.jpg
 ---
 
-This post is part of a student spotlight series highlighting the work of exceptional students.  The series aims to facilitate knowledge sharing among students on topics such as internships, jobs, and graduate school.  Today, I have the pleasure of talking to Brunda Katikireddy ‘23, a rising junior who will tell us about her internship experience at Uplight this summer.
+This post is part of a student spotlight series highlighting the work of exceptional students.  The series aims to facilitate knowledge sharing among students on topics such as internships, jobs, and graduate school.  Today, I have the pleasure of talking to Brunda Katikireddy ‘24, a sophomore who will tell us about her internship experience at Uplight this summer.
 
 **Naser: Can you tell us about the internship you had this summer?  What kind of internship was it?**
 
