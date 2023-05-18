@@ -35,7 +35,7 @@ Jeffrey: The application to become a Microsoft Learn Student Ambassador is quite
 
 
 Usually every year, Applications are evaluated quarterly. The application basically consists of 5 sections: Personal Info, School Info, Written and Video samples, Additional Information and Technical Skills.
-The section that needs a great deal of attention is the “Written Sample”. In this section, some essay questions are given which should be answered using written-ups and a video made under 2 minutes.
+The section that needs a great deal of attention is the “Written Sample”. In this section, some essay questions are given which should be answered using write-ups and a video made under 2 minutes.
 During my application year, one was at liberty to use at least one video in answering all 3 essay topics and so I decided to submit 2 videos and one write-up.
 But for this year in particular, it was made compulsory to submit just one video in answering any of the topics, with the others being write-ups. Things may change slightly in the years ahead but the good news is, the essay topics do not change and by answering them well, one is set on the path of becoming a Microsoft Learn Student Ambassador.  The topics are labeled: ‘INSPIRE’, ‘TEACH’ and ‘PROMOTE.’
 
@@ -54,15 +54,19 @@ Personally, I asked people who were already Microsoft Learn Student Ambassadors 
 
 
 
-**Naser: What kind of activities are you involved as a Microsoft Learn Student Ambassador? And what aspects did you find most interesting?**
+**Naser: What kind of activities are you involved in as a Microsoft Learn Student Ambassador? And what aspects did you find most interesting?**
 
 
 Jeffrey: The most important activity an Ambassador is involved in is to organize events to share technological knowledge. But aside from that, there are also the opportunities to take part in Weekly and Monthly calls with other Ambassadors worldwide on Microsoft Teams for purposes of networking, skill-building among others.
+
+
 On our campus, a friend of mine who is a fellow Ambassador liaised with the Technology Committee of the Electrical/Electronic Engineering Department with the purpose of organizing Training sessions in Python, Web Design, Git and Github, Personal Branding on LinkedIn as well as short Embedded Systems sessions using Arduino microcontrollers. We have had the opportunity to work with other organizations like TME Education right on campus to reach a much wider audience.  
+
+
 One very important activity I cannot leave out is the ever-amazing Imagine Cup which is organized yearly. This is an awesome competition that gives Microsoft Learn Student Ambassadors the opportunity to collaborate with one another in various teams, build technological solutions and win great prizes. Aside from the cash prizes involved, Winners of these competitions gain mentorship opportunities with Microsoft Chairman and CEO, Satya Nadella.
 
 
-Personally, the aspect of the various activities that I have found most interesting is the opportunity I have had in reaching out to K12 students and teaching them programming. I love how they are able to pick up so fast and how creative they are.
+Personally, the aspect of the various activities that I have found most interesting is the opportunity I have had in reaching out to K12 students and teaching them programming. I love how they are able to pick up concepts so fast and how creative they are.
 
 
 **Naser: What tips would you give students interested in becoming Microsoft Learn Student Ambassadors? You can mention any details that you like, including websites and other resources.**
