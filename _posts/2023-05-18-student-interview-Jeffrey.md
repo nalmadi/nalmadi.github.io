@@ -31,7 +31,9 @@ Jeffrey: The Microsoft Learn Student Ambassador program is open to all to apply 
 **Naser: Can you tell us about the application process? And how did you prepare for it?**
 
 
-Jeffrey: The application to become a Microsoft Learn Student Ambassador is quite straightforward. One needs to submit an application form on the official MLSA website: https://studentambassadors.microsoft.com/
+Jeffrey: The application to become a Microsoft Learn Student Ambassador is quite straightforward. One needs to submit an application form on the official MLSA website: [https://studentambassadors.microsoft.com/](https://studentambassadors.microsoft.com/)
+
+
 Usually every year, Applications are evaluated quarterly. The application basically consists of 5 sections: Personal Info, School Info, Written and Video samples, Additional Information and Technical Skills.
 The section that needs a great deal of attention is the “Written Sample”. In this section, some essay questions are given which should be answered using written-ups and a video made under 2 minutes.
 During my application year, one was at liberty to use at least one video in answering all 3 essay topics and so I decided to submit 2 videos and one write-up.
