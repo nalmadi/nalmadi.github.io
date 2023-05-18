@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Student Spotlight - Jeffrey Asiedu-Brako (Microsoft)"
+title: "Student Spotlight - Jeffrey Asiedu-Brako (Microsoft Student Ambassador)"
 author: "Naser"
 categories: Interview
 tags: [Interview, student]
