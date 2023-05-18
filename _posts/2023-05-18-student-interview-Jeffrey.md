@@ -14,7 +14,12 @@ This post is part of a student spotlight series highlighting the work of excepti
 **Naser: Can you tell us about the Microsoft Learn Student Ambassador program?  What do ambassadors do?**
 
 
-Jeffrey: What tips would you give students interested in becoming Microsoft Learn Student Ambassadors? You can mention any details that you like, including websites and other resources.
+Jeffrey: The Microsoft Learn Student Ambassador (MLSA) is an initiative by Microsoft to provide students the opportunity to be part of a large community of change-makers in Tech and Community leadership.
+
+
+This initiative provides students the opportunity to amplify their impact and establish themselves as mentors and leaders in their various communities while developing technical skills through resources and learning benefits from Microsoft
+
+Ambassadors are on-campus volunteers and leaders who have the passion to help their community grow in technical and digital skills
 
 
 **Naser: How did you become a Microsoft Learn Student Ambassador?**
@@ -30,10 +35,9 @@ Jeffrey: The application to become a Microsoft Learn Student Ambassador is quite
 Usually every year, Applications are evaluated quarterly. The application basically consists of 5 sections: Personal Info, School Info, Written and Video samples, Additional Information and Technical Skills.
 The section that needs a great deal of attention is the “Written Sample”. In this section, some essay questions are given which should be answered using written-ups and a video made under 2 minutes.
 During my application year, one was at liberty to use at least one video in answering all 3 essay topics and so I decided to submit 2 videos and one write-up.
-But for this year in particular, it was made compulsory to submit just one video in answering any of the topics, with the others being write-ups. Things may change slightly in the years ahead but the good news is, the essay topics do not change and by answering them well, one is set on the path of becoming a Microsoft Learn Student Ambassador.
+But for this year in particular, it was made compulsory to submit just one video in answering any of the topics, with the others being write-ups. Things may change slightly in the years ahead but the good news is, the essay topics do not change and by answering them well, one is set on the path of becoming a Microsoft Learn Student Ambassador.  The topics are labeled: ‘INSPIRE’, ‘TEACH’ and ‘PROMOTE.’
 
 
-The topics are labeled: ‘INSPIRE’, ‘TEACH’ and ‘PROMOTE’
 •   INSPIRE: The way to answer this is to show in a much detailed but also concise manner what inspires you about technology and why you would want others to also know about it.
 It is advisable to be realistic, honest and passionate in one’s answer. You can talk about how technology fascinates you and the fact that you always derive joy in sharing your technological knowledge to others.
 
@@ -62,10 +66,18 @@ Personally, the aspect of the various activities that I have found most interest
 **Naser: What tips would you give students interested in becoming Microsoft Learn Student Ambassadors? You can mention any details that you like, including websites and other resources.**
 
 
-Jeffrey: 5. Here are a few tips to anyone out there who wants to become a Microsoft Learn Student Ambassador:
+Jeffrey: Here are a few tips to anyone out there who wants to become a Microsoft Learn Student Ambassador:
+
+
 •   Be honest and express your passion for community involvement and willingness to help others build their skills.
+
+
 •   There is an ‘Optional’ section in the application. I have observed that most people ignore this section but it can be greatly utilized to boost one’s application. If you have some community involvement in the past, this would be a great place to share. And if you have had some achievements which you think will be of benefit to your application, it will be great to add it here also.
+
+
 •   It is extremely important to note that the application can be started and saved till one is entirely ready to officially submit. What this means is that there is no need to rush. Make sure to take your time to go through the application, write good essays and submit an awesome application.
+
+
 •   If you have worked on some technical projects, it would be great to push them to GitHub, and include a link to your GitHub profile in the “Additional Info” session which asks for your internet presence and activity. A good LinkedIn profile would also be a great plus.
 
 
