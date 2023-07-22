@@ -48,7 +48,7 @@ I also appreciate the weather (70°F summer, 40°F winter) in the Bay Area, its 
 **Naser: Finally, do you have any words of encouragement to students who are not sure if they can make it in the competitive world of tech?**
 
 
-Luhang: I want to note that being a CS-related major/minor provides you with the flexibility to pursue a career in both product management and software engineering (among many more others!). It’s helpful to research the different career paths, their respective job responsibilities, and the day-to-day work if you can by reaching out to alumni who work in these fields, and compare these insights with your strengths and preferences to make an informed decision about which path aligns best with your aspirations.
+Luhang: I want to note that being a CS major/minor at Colby provides you with the flexibility to pursue a career in both product management and software engineering (among many more others!). It’s helpful to research the different career paths, their respective job responsibilities, and the day-to-day work if you can by reaching out to alumni who work in these fields, and compare these insights with your strengths and preferences to make an informed decision about which path aligns best with your aspirations.
 
 **Naser:  Thank you for sharing your experience Luhang, and good luck to you in your position.**
 
