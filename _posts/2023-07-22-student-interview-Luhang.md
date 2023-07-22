@@ -4,7 +4,7 @@ title: "Student Spotlight - Luhang Sun (Product Manager)"
 author: "Naser"
 categories: Interview
 tags: [Interview, student]
-image: SF.jpg
+image: SF.jpeg
 ---
 Photo by Luhang Sun '22
 
