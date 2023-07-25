@@ -10,7 +10,7 @@ Photo by Luhang Sun '22
 
   
 
-This post is part of a student spotlight series highlighting the work of exceptional students.  The series aims to facilitate knowledge sharing among students on topics such as internships, jobs, and graduate school.  Today, I have the pleasure of talking to Luhang Sun '22, who will tell us about her experience as a product manager in San Francisco and a Colby alumna.
+This post is part of a student spotlight series highlighting the work of exceptional students.  The series aims to facilitate knowledge sharing among students on topics such as internships, jobs, and graduate school.  Today, I have the pleasure of talking to Luhang Sun '22, who will tell us about her experience as a product manager in the Bay Area and a Colby alumna.
 
 
 **Naser: What is it like being a product manager? What does a typical day look like?**
