@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Student Spotlight - Yixuan Qiu (Harvard University)"
+title: "Student Spotlight - Yixuan Qiu '22 (Harvard University)"
 author: "Naser"
 categories: Interview
 tags: [Interview, student]
@@ -11,7 +11,7 @@ Photo by <a href="https://unsplash.com/fr/@pbernardon?utm_source=unsplash&utm_me
 
   
 
-This post is part of a student spotlight series highlighting the work of exceptional students.  The series aims to facilitate knowledge sharing among students on topics such as internships, jobs, and graduate school.  Today, I have the pleasure of talking to Yixuan Qiu, who will tell us about her experience as a graduate student at Harvard University and a Colby alumna.
+This post is part of a student spotlight series highlighting the work of exceptional students.  The series aims to facilitate knowledge sharing among students on topics such as internships, jobs, and graduate school.  Today, I have the pleasure of talking to Yixuan Qiu '22, who will tell us about her experience as a graduate student at Harvard University and a Colby alumna.
 
 
 **Naser: Can you tell us about the program at Harvard you are joining this fall?**
