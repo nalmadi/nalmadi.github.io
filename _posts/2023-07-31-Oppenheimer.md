@@ -2,7 +2,7 @@
 layout: post
 title: "What Oppenheimer Tells Us about AI"
 author: "Naser"
-categories: 
+categories: post
 tags:
 image: Oppenheimer.jpg
 ---
