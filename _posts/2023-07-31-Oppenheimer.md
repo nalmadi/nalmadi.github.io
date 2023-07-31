@@ -6,7 +6,7 @@ categories: post
 tags: Post
 image: Oppenheimer.jpg
 ---
-Cillian Murphy as J. Robert Oppenheimer in 'Oppenheimer' COURTESY OF UNIVERSAL PICTURES
+COURTESY OF UNIVERSAL PICTURES
 
   
 
