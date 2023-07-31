@@ -4,7 +4,7 @@ title: "What Oppenheimer Tells Us about AI"
 author: "Naser"
 categories: 
 tags:
-image: Oppenheimer.jpeg
+image: Oppenheimer.jpg
 ---
 Cillian Murphy as J. Robert Oppenheimer in 'Oppenheimer' COURTESY OF UNIVERSAL PICTURES
 
