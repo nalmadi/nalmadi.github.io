@@ -4,7 +4,7 @@ title: "What Oppenheimer Tells Us about AI"
 author: "Naser"
 categories: post
 tags: Post
-image: Oppenheimer.jpg
+image: oppenheimer-001.jpg
 ---
 COURTESY OF UNIVERSAL PICTURES
 
