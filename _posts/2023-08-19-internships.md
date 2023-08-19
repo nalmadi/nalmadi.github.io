@@ -4,9 +4,9 @@ title: "How to find Your First Tech Internship"
 author: "Naser"
 categories: post
 tags: Post
-image: jeshoots-com--2vD8lIhdnw-unsplash - Copy (2).jpeg
+image: christina-wocintechchat-com-4PU-OC8sW98-unsplash.jpg
 ---
-Photo by <a href="https://unsplash.com/@jeshoots?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">JESHOOTS.COM</a> on <a href="https://unsplash.com/photos/-2vD8lIhdnw?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
+Photo by <a href="https://unsplash.com/@wocintechchat?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Christina @ wocintechchat.com</a> on <a href="https://unsplash.com/photos/4PU-OC8sW98?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Unsplash</a>
 
   
 
