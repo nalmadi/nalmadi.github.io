@@ -4,7 +4,7 @@ title: "How to find Your First Tech Internship"
 author: "Naser"
 categories: post
 tags: Post
-image: jeshoots-com--2vD8lIhdnw-unsplash.jpg
+image: jeshoots-com--2vD8lIhdnw-unsplash - Copy (2).jpg
 ---
 Photo by <a href="https://unsplash.com/@jeshoots?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">JESHOOTS.COM</a> on <a href="https://unsplash.com/photos/-2vD8lIhdnw?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
 
