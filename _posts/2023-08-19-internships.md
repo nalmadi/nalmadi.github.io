@@ -25,4 +25,4 @@ Keep in mind that 50% of tech internships are not at tech companies, so find oth
 
 Finally, take this entire process as a learning experience that will help you practice the interview process and figure out what you would like to do in the future.
 
-You got this!  Good luck to you all!
+You got this!  Good luck!
