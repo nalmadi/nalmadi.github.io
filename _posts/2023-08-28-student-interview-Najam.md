@@ -4,7 +4,7 @@ title: "Student Entrepreneur - Najam Tariq '26 (ParaAI)"
 author: "Naser"
 categories: Interview
 tags: [Interview, student]
-image: paraAI.jpg
+image: ParaAI.jpg
 ---
 
   
