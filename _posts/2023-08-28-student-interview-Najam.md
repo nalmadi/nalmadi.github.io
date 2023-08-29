@@ -9,7 +9,7 @@ image: ParaAI.jpg
 
   
 
-This post is part of a student spotlight series highlighting the work of exceptional students.  The series aims to facilitate knowledge sharing among students on topics such as internships, jobs, entrepreneurship, and graduate school.  Today, I have the pleasure of talking to Najam Tariq '26, who will tell us about his new AI startup [ParaAI.pro/][https://paraai.pro/].
+This post is part of a student spotlight series highlighting the work of exceptional students.  The series aims to facilitate knowledge sharing among students on topics such as internships, jobs, entrepreneurship, and graduate school.  Today, I have the pleasure of talking to Najam Tariq '26, who will tell us about his new AI startup [ParaAI.pro/](https://paraai.pro/).
 
 
 **Naser: Tell me a little bit about yourself and your startup. What is the main problem your product solves?**
