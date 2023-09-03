@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Student Entrepreneur - Linn Cao Nguyen Phuong '24 (Credit Suisse)"
+title: "Student Spotlight - Linn Cao Nguyen Phuong '24 (Credit Suisse)"
 author: "Naser"
 categories: Interview
 tags: [Interview, student]
