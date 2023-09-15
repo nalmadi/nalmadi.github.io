@@ -70,7 +70,7 @@ At Amazon, I primarily use Java and JavaScript. Technology-wise, there are a ton
 
 **Naser: How does your job align with your academic studies at Colby?  Are there any courses that you found more important/helpful after you started your professional career?**
 
-I know how to ask questions and communicate because of Colby. Those are the most important things I learned at Colby with regard to my job. I know how to ask questions. You must ask questions in the software engineering world. You are not expected to know anything. You are only expected to ask questions. Also, teamwork is one of the most important skills to have. More technically, I learned a lot about software development and refinement from my classes. I'm also good at debugging, mostly from all those CS 333 segmentation faults!
+I know how to ask questions and communicate because of Colby. Those are the most important things I learned at Colby with regard to my job. I know how to ask questions. You must ask questions in the software engineering world. You are not expected to know everything. You are only expected to ask questions. Also, teamwork is one of the most important skills to have. More technically, I learned a lot about software development and refinement from my classes. I'm also good at debugging, mostly from all those CS 333 segmentation faults!
 
 **Naser: Can you tell us about the job search and interview process? And how did you prepare for it?**
 
@@ -82,13 +82,13 @@ As for the actual process of interviews, you can look it up on Glassdoor or Redd
 **Naser: What tips would you give students interested in joining a large tech company in the future?  You can mention any details that you like, including websites and other resources.**
 
 
-Grind75.
-Do your dynamic programming.
-Don't worry about anything harder than Leetcode Mediums.
-Make your resume look great. Talk to CP. He pretty much got me my job at Amazon.
-Don't give up.
-Since you read through this and picked up my knowledge, I'll share with you my total compensation. I am very pro-salary transparency. My base is $148,600, my signing bonus is $46,100, and my stock grant is about $6,100 in AMZN stock (it'll vest in a year). You can add up the numbers. The state of California and Uncle Sam take away about 40% of it. It's the California life.
+- Grind75.
+- Do your dynamic programming.
+- Don't worry about anything harder than Leetcode Mediums.
+- Make your resume look great. Talk to CP. He pretty much got me my job at Amazon.
+- Don't give up.
+- Since you read through this and picked up my knowledge, I'll share with you my total compensation. I am very pro-salary transparency. My base is $148,600, my signing bonus is $46,100, and my stock grant is about $6,100 in AMZN stock (it'll vest in a year). You can add up the numbers. The state of California and Uncle Sam take away about 40% of it. It's the California life.
 
 I hope this interview didn't have any typos in it!
 
-Feel free to reach out to me at peterson.nicholas.0719@gmail.com!
+Feel free to reach out to me at peterson.nicholas.0719 at gmail.com!
