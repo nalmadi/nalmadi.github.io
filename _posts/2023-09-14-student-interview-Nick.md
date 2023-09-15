@@ -4,7 +4,7 @@ title: "Alum Spotlight - Nick Peterson '22 (Amazon)"
 author: "Naser"
 categories: Interview
 tags: [Interview, student]
-image: IMG_9277 - Copy.jpg
+image: IMG_9277-copy.jpg
 ---
 Photo by Nick Peterson '22
   
