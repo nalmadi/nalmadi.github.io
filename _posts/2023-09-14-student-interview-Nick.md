@@ -39,25 +39,25 @@ We go into the office on Mondays, Wednesdays, and Thursdays. At first, I did not
 
 My typical work day is as follows:
 
-8:15: Take the city bus to the Amazon bus.
+- 8:15: Take the city bus to the Amazon bus.
 
-8:40: Depart for Sunnyvale on the Amazon bus.
+- 8:40: Depart for Sunnyvale on the Amazon bus.
 
-10:00: Arrive Amazon. Answer emails, look at tickets, assess the situation if any service went down overnight.
+- 10:00: Arrive Amazon. Answer emails, look at tickets, assess the situation if any service went down overnight.
 
-10:30: Standup! It's more fun in person!
+- 10:30: Standup! It's more fun in person!
 
-11:00: Work on whatever ticket I have right now. So far, most of my tickets have been little tweaks to the codebase -- adjust this, put an alert on that internal dashboard -- keep in mind, these tiny little tweaks impact 400 million FireTV devices!
+- 11:00: Work on whatever ticket I have right now. So far, most of my tickets have been little tweaks to the codebase -- adjust this, put an alert on that internal dashboard -- keep in mind, these tiny little tweaks impact 400 million FireTV devices!
 
-11:30: I'll usually break for lunch around this time. Depends on how I'm doing with my work. I like to take breaks when I'm not stuck on anything -- it's a lot easier to regain momentum when you come back from your break. That's a pro study / CS project tip, try it out.
+- 11:30: I'll usually break for lunch around this time. Depends on how I'm doing with my work. I like to take breaks when I'm not stuck on anything -- it's a lot easier to regain momentum when you come back from your break. That's a pro study / CS project tip, try it out.
 
-12:00pm: Sometimes I'll have a longer break, sometimes shorter. Depends on the vibe. The Sunnyvale office shares a campus with Facebook and Google, and there's a really nice courtyard in the middle. It's also sunny and 75 every day in Sunnyvale (lol checks out), which is just a little bit different from Maine! There's a lot of freedom here, you just need to get your work done!
+- 12:00pm: Sometimes I'll have a longer break, sometimes shorter. Depends on the vibe. The Sunnyvale office shares a campus with Facebook and Google, and there's a really nice courtyard in the middle. It's also sunny and 75 every day in Sunnyvale (lol checks out), which is just a little bit different from Maine! There's a lot of freedom here, you just need to get your work done!
 
-2:00pm: On Thursdays, I'll have my 1-on-1 with my manager. We take a good 30 minutes to walk around or do whatever we want to do, and just talk about anything we want to talk about. He uses this as a way to check in with me and make sure I'm succeeding, and I have whatever I need. It's also a safe space for me to ask for career advice. Amazon takes really great care of me!
+- 2:00pm: On Thursdays, I'll have my 1-on-1 with my manager. We take a good 30 minutes to walk around or do whatever we want to do, and just talk about anything we want to talk about. He uses this as a way to check in with me and make sure I'm succeeding, and I have whatever I need. It's also a safe space for me to ask for career advice. Amazon takes really great care of me!
 
-6:00pm: I'm done with work around this time. The bus home should be leaving soon!
+- 6:00pm: I'm done with work around this time. The bus home should be leaving soon!
 
-8:30pm: I'm home!
+- 8:30pm: I'm home!
 
 
 On a typical work day, I'm probably spending about 5-10% of my time coding. The rest of the time I spend digging around the (massive) codebase and checking and testing my code, and meeting with teammates.
