@@ -68,11 +68,11 @@ On a typical work day, I'm probably spending about 5-10% of my time coding. The 
 
 At Amazon, I primarily use Java and JavaScript. Technology-wise, there are a ton of things we use, most of them proprietary technologies created and maintained by Amazon, that are similar to better-known technologies on the market. One of the core Amazon technologies is a lot like Kubernetes. I learned my technologies by bothering the **** out of my teammates and manager with questions. Just kidding, they don't get annoyed. They are so supportive of me, and they have all been so excited to have me onboard!
 
-How does your job align with your academic studies at Colby?  Are there any courses that you found more important/helpful after you started your professional career?
+**Naser: How does your job align with your academic studies at Colby?  Are there any courses that you found more important/helpful after you started your professional career?**
 
 I know how to ask questions and communicate because of Colby. Those are the most important things I learned at Colby with regard to my job. I know how to ask questions. You must ask questions in the software engineering world. You are not expected to know anything. You are only expected to ask questions. Also, teamwork is one of the most important skills to have. More technically, I learned a lot about software development and refinement from my classes. I'm also good at debugging, mostly from all those CS 333 segmentation faults!
 
-Can you tell us about the job search and interview process? And how did you prepare for it?
+**Naser: Can you tell us about the job search and interview process? And how did you prepare for it?**
 
 I could go on for hours about this process. I have a pretty interesting story. My first company rescinded my return intern offer for summer 2021, it's a long and funny story, feel free to email me about it. Point is, you have to just apply and not think about it. Apply apply apply. I have a spreadsheet of all the jobs I applied to and as the stats go, I applied to 100 companies and was rejected from 98, most of which didn't even give me a first-round interview/coding challenge. No, I wasn't "good" enough to get even a first round interview/coding challenge for Chic-Fil-A's software engineering position. Don't take rejection personally.
 
