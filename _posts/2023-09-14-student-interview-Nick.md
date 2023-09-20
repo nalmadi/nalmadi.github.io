@@ -87,7 +87,8 @@ As for the actual process of interviews, you can look it up on Glassdoor or Redd
 - Don't worry about anything harder than Leetcode Mediums.
 - Make your resume look great. Talk to CP. He pretty much got me my job at Amazon.
 - Don't give up.
-- Since you read through this and picked up my knowledge, I'll share with you my total compensation. I am very pro-salary transparency. My base is $148,600, my signing bonus is $46,100, and my stock grant is about $6,100 in AMZN stock (it'll vest in a year). You can add up the numbers. The state of California and Uncle Sam take away about 40% of it. It's the California life.
+
+Since you read through this and picked up my knowledge, I'll share with you my total compensation. I am very pro-salary transparency. My base is $148,600, my signing bonus is $46,100, and my stock grant is about $6,100 in AMZN stock (it'll vest in a year). You can add up the numbers. The state of California and Uncle Sam take away about 40% of it. It's the California life.
 
 I hope this interview didn't have any typos in it!
 
