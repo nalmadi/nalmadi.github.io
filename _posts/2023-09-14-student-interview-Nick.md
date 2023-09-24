@@ -12,7 +12,7 @@ Photo by Nick Peterson '22
 This post is part of a spotlight series highlighting the work of exceptional students and alumni.  The series aims to facilitate knowledge sharing among students on topics such as internships, jobs, entrepreneurship, and graduate school.  
 
 
-Today, I have the pleasure of talking to Nick Peterson '22, who will tell us about his experience a Software Engineering at Amazon.
+Today, I have the pleasure of talking to Nick Peterson '22, who will tell us about his experience a Software Engineer at Amazon.
 
 
 
