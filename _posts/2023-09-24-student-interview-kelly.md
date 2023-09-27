@@ -9,10 +9,10 @@ image: kelly.jpg
 Photo by Kelly Putnam '24
   
 
-This post is part of a spotlight series highlighting the work of exceptional students and alumni.  The series aims to facilitate knowledge sharing among students on topics such as internships, jobs, entrepreneurship, and graduate school.  
+This post is part of a spotlight series highlighting the work of exceptional students and alumni.  The series aims to facilitate knowledge sharing on topics such as internships, jobs, entrepreneurship, and graduate school.  
 
 
-Today, I have the pleasure of talking to Kelly Putnam '24, who will tell us about her experience as a Software Engineering intern at The Jackson Laboratory.
+Today, I have the pleasure of talking to Kelly Putnam '24, who will tell us about her recent experience as a Software Engineering intern at The Jackson Laboratory.
 
 
 
