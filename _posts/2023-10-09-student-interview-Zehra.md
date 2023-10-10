@@ -4,7 +4,7 @@ title: "Student Spotlight - Zehra Gundogdu '25 (Enerjisa Uretim)"
 author: "Naser"
 categories: Interview
 tags: [Interview, student]
-image: zehra internship.jpg
+image: zehra_internship.jpg
 ---
 Photo by Zehra Gundogdu '25
   
