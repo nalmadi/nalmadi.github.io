@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Student Spotlight - Luhang Sun '22 (Product Manager)"
+title: "Alum Spotlight - Luhang Sun '22 (Product Manager)"
 author: "Naser"
 categories: Interview
 tags: [Interview, student]
