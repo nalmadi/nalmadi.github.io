@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Student Spotlight - Yixuan Qiu '22 (Harvard University)"
+title: "Alum Spotlight - Yixuan Qiu '22 (Harvard University)"
 author: "Naser"
 categories: Interview
 tags: [Interview, student]
