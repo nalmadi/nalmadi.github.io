@@ -12,7 +12,7 @@ Photo by Michael Ofori Tenkorang '26.
 This post is part of a spotlight series highlighting the work of exceptional students and alumni.  The series aims to facilitate knowledge sharing on topics such as internships, jobs, entrepreneurship, and graduate school.  
 
 
-Today, I have the pleasure of talking to Michael Ofori Tenkorang '26, who will tell us about his recent experience as an explorer Software Engineering and Product Management Intern with the Xbox team at Microsoft.
+Today, I have the pleasure of talking to Michael Ofori Tenkorang '26, who will tell us about his recent experience as an Explorer Software Engineering and Product Management Intern with the Xbox team at Microsoft.
 
 
 **Naser: Can you tell us about your role and responsibilities during your tech internship?**
