@@ -6,12 +6,12 @@ categories: Interview
 tags: [Interview, student]
 image: Group.jpg
 ---
-Photo by professor Amanda Stent during a visit to the Roux Institute of Northeastern University during SureStart
+Photo by professor Amanda Stent (Director of The Davis Institute for Artificial Intelligence) during a visit to the Roux Institute of Northeastern University during SureStart.
 
 This post is part of a spotlight series highlighting the work of exceptional students and alumni. The series aims to facilitate knowledge sharing on topics such as internships, jobs, entrepreneurship, and graduate school.
 
 Today, I have the pleasure of talking to Nafis Saadiq Bhuiyan '26, who will tell us about his recent experience as a participants at SureStart.
-SureStart is a summer program that teaches real-world skills to students interested in AI, the program is hosted at Colby college by the Davis Institute for Artificial Intelligence and Halloran Lab for Entrepreneurship. 
+SureStart is a summer program that teaches real-world skills to students interested in AI, the program is hosted at Colby college by The Davis Institute for Artificial Intelligence and Halloran Lab for Entrepreneurship. 
 
 
 **Naser: Can you start by giving us a brief overview of SureStart?**
