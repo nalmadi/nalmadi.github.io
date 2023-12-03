@@ -10,7 +10,7 @@ image: Group.jpg
 
 This post is part of a spotlight series highlighting the work of exceptional students and alumni. The series aims to facilitate knowledge sharing on topics such as internships, jobs, entrepreneurship, and graduate school.
 
-Today, I have the pleasure of talking to Nafis Saadiq Bhuiyan '26, who will tell us about his recent experience as a participants at SureStart.
+Today, I have the pleasure of talking to Nafis Saadiq Bhuiyan '26, who will tell us about his recent experience as a participant at SureStart.
 SureStart is a summer program that teaches real-world skills to students interested in AI, the program is hosted at Colby college by The Davis Institute for Artificial Intelligence and Halloran Lab for Entrepreneurship. 
 
 
@@ -28,7 +28,7 @@ The last 4 weeks was our time to apply the knowledge we learnt. Each of us pitch
 
 **Naser:  What were the most impactful experiences that you had during SureStart?**
 
-Nafis: There are several impactful experiences I had during the program. We had standups every morning where we had to report our progress and any problem we were facing. It gave me a taste of how jobs in the real world look like. Apart from this, I learned to solve problems on my own as well as in groups. As I said earlier, in the first four weeks, we were learning and in the last four weeks, we were learning and, at the same time, building. We had to focus on technical and non-technical aspects during the last four weeks. We ran into many challenges at times, but we worked hard to solve those. The program was very impactful for me because I not only learned important AI skills but built something that could verify that I learned the skills.
+Nafis: There are several impactful experiences I had during the program. We had standups every morning where we had to report our progress and any problem we were facing. It gave me a taste of how jobs in the real world look like. Apart from this, I learned to solve problems on my own as well as in groups. As I said earlier, in the first four weeks, we were learning and in the last four weeks, we were learning and, at the same time, building. We had to focus on technical and non-technical aspects during the last four weeks. We ran into many challenges at times, but we worked hard to solve those. The program was very impactful for me because I not only learned important AI skills but built something that could demonstrate that I learned the skills.
 
 
 **Naser: The newly formed Halloran Lab for Entrepreneurship was involved in SureStart this year.  Can you tell us about the experience of working on AI projects for real-world applications, and what was the project you and your team pitched?**
