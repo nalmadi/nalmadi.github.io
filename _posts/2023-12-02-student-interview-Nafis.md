@@ -6,7 +6,7 @@ categories: Interview
 tags: [Interview, student]
 image: Group.jpg
 ---
-Photo by professor Amanda Stent (Director of The Davis Institute for Artificial Intelligence) during a visit to the Roux Institute of Northeastern University during SureStart.
+<sup>Photo by professor Amanda Stent (Director of The Davis Institute for Artificial Intelligence) during a visit to the Roux Institute of Northeastern University during SureStart.</sup>
 
 This post is part of a spotlight series highlighting the work of exceptional students and alumni. The series aims to facilitate knowledge sharing on topics such as internships, jobs, entrepreneurship, and graduate school.
 
