@@ -60,7 +60,7 @@ Carly: Yes! The CS Student Advisory Board is a club that is open to any CS or CS
 Early in the fall semester, we organized the Software Engineering Panel, where students like myself and other former summer interns at various tech companies answered moderated questions about the experience followed by an open Q+A from the audience. On the social end, the CS Student Advisory Board held a movie night in the Gordon Center with free snacks where students could watch The Social Network. We are also the organization behind the CS Department T-Shirt Contest. 
 
 
-**Naser: Is there a website or a mailing list where people can join to stay updated on events organized by the CS Student Advisory Board? **
+**Naser: Is there a website or a mailing list where people can join to stay updated on events organized by the CS Student Advisory Board?**
 
 
 Yes, there is! We email a large number of our events to the Computer Science Department mailing list, csstu, but if you want to be in the loop on when our meetings are, we have a Google group that I can add you to – feel free to email me at celevi24 [at] colby.edu if you want to be added to the mail list. 
