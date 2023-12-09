@@ -6,7 +6,7 @@ categories: Interview
 tags: [Interview, student]
 image: carly.jpg
 ---
-Photo by Carly Levinsohn '24
+<sup>Photo by Carly Levinsohn '24</sup>
   
 
 This post is part of a spotlight series highlighting the work of exceptional students and alumni.  The series aims to facilitate knowledge sharing on topics such as internships, jobs, entrepreneurship, and graduate school.  
