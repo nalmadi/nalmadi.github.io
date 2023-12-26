@@ -13,13 +13,13 @@ published: true
 This post is part of a spotlight series highlighting the work of exceptional students and alumni.  The series aims to facilitate knowledge sharing on topics such as internships, jobs, entrepreneurship, and graduate school.  
 
 
-Today, I have the pleasure of talking to Shin Xinyue Wu '26, who will tell us about her recent experience as a data analyst intern at Hosstinn.
+Today, I have the pleasure of talking to Shin Xinyue Wu '26, who will tell us about her recent experience as a Data Analyst intern at hosstinn.
 
 
 **Naser: Can you tell us about your role and responsibilities during your tech internship?**
 
 
-Shin: Last summer, I had an incredible internship experience at Hosstinn, a startup company in Barcelona. They focus on developing an EdTech platform for upskilling hotel staff. As a data analyst intern under the CEO & co-founder's mentorship, my main responsibility was to analyze data for insights to enhance the platform's growth and effectiveness.
+Shin: Last summer, I had an incredible internship experience at hosstinn, a startup company in Barcelona. They focus on developing an EdTech platform for upskilling hotel staff. As a data analyst intern under the CEO & co-founder's mentorship, my main responsibility was to analyze data for insights to enhance the platform's growth and effectiveness.
 
 
 The experience had two parts. The first was understanding the platform's front-end (Angular) and back-end (Django) frameworks, and the PostgreSQL database. With no prior experience in data analysis or these languages, I spent the first two weeks understanding Angular and Django and utilizing SQL to integrate data with the help of ChatGPT and YouTube tutorials.
@@ -37,7 +37,7 @@ Shin: I found this internship from Sage Corps, an international internship progr
 **Naser: Can you tell us about the interview process? And how did you prepare for it?**
 
 
-Shin: I underwent two interviews: one for Sage Corps and another for Hosstinn. Both were typical and concise, friendly and ideal for freshmen/sophomores. They followed a similar structure: self-introduction, why this program/role, how would you fit in this program/role. As long as a person is familiar with their resume and knows how their past experiences can be related to the value/responsibilities of the program/role, the interview should be smooth and chill.
+Shin: I underwent two interviews: one for Sage Corps and another for hosstinn. Both were typical and concise, friendly and ideal for freshmen/sophomores. They followed a similar structure: self-introduction, why this program/role, how would you fit in this program/role. As long as a person is familiar with their resume and knows how their past experiences can be related to the value/responsibilities of the program/role, the interview should be smooth and chill.
 
 
 **Naser: How did the internship align with your academic studies at Colby, and did it provide any unique perspectives or insights?**
