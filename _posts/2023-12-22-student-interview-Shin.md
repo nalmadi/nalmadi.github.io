@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Student Spotlight - Shin Xinyue Wu '26 (Hosstinn)"
+title: "Student Spotlight - Shin Xinyue Wu '26 (hosstinn)"
 author: "Naser"
 categories: Interview
 tags: [Interview, student]
