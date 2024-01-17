@@ -5,7 +5,7 @@ author: "Naser"
 categories: Interview
 tags: [Interview, student]
 image: carly.jpg
-published: false
+published: true
 ---
 <sup>Photo by Carly Levinsohn '24</sup>
   
