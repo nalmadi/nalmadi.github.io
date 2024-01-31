@@ -18,7 +18,7 @@ Today, I have the pleasure of talking to Trey Tuscai '25, who will tell us about
 
 **Naser: Can you start by giving us a brief overview of your startup/app? What inspired you to start this project?**
 
-Trey: “Dowsing: Discover and Review Water” is an innovative mobile app designed for those who value hydration on the go. It simultaneously enables users to explore and rate drinking fountains while tracking their hydration. However, "Dowsing" is about more than just rating and tracking. The app aims to build a community of individuals who share insights and recommendations, creating a network of users who value self-care, accessibility, and staying connected. 
+Trey: “Dowsing: Discover and Review Water” is a mobile app designed for those who value hydration on the go. It simultaneously enables users to explore and rate drinking fountains while tracking their hydration. However, "Dowsing" is about more than just rating and tracking. The app aims to build a community of individuals who share insights and recommendations, creating a network of users who value self-care, accessibility, and staying connected. 
 
 The inspiration behind “Dowsing” stems from recognizing the importance of water in our daily lives and the challenges individuals face in finding quality drinking fountains.
 
