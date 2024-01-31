@@ -50,7 +50,7 @@ Trey: The app is in good shape, but my long-term vision centers on three key are
 
 **Naser: where can people find your app?**
 
-Trey: You can find my app exclusively on the App Store. Feel free to check it out <a href="https://apple.co/3OxrJGw" target="_blank">https://apple.co/3OxrJGw</a>.
+Trey: You can find my app exclusively on the App Store. Feel free to check it out [https://apple.co/3OxrJGw](https://apple.co/3OxrJGw).  
 
 
 **Naser: How did your academic studies at Colby prepare you to take on this project?  Are there specific courses that you found helpful?**
