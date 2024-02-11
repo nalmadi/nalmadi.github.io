@@ -13,7 +13,7 @@ published: true
 This post is part of a spotlight series highlighting the work of exceptional students and alumni.  The series aims to facilitate knowledge sharing on topics such as internships, jobs, entrepreneurship, and graduate school.  
 
 
-Today, I have the pleasure of talking to Adaobi Nebuwa '24, who will tell us about her recent experience at Grace Hopper Celebration.
+Today, I have the pleasure of talking to Adaobi Nebuwa '24 about her recent experience at Grace Hopper Celebration.
 
 
 **Naser: Can you tell us a bit about Grace Hopper Celebration of Women in Computing and its history?**
