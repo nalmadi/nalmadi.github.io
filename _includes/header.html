@@ -1,12 +1,12 @@
 <header class="site-header">
   <h3 class="site-title">
-    <img src="{{site.baseurl}}/assets/img/NASER.png" alt="" style="vertical-align:-15%;display:inline-block;width:60px;height:47px;">
+    <img src="{{site.baseurl}}/assets/img/NASER.png" alt="" style="vertical-align:-30%;display:inline-block;width:120px;height:93px;">
     <a href="{{ site.github.url }}/">{{ site.title }}</a>
     
   </h3>
 
   
-  <nav class="menu-list">
+  <nav class="menu-list" style="padding-top:45px;">
     {% for item in site.data.settings.menu %}
       <a href="{{ site.github.url }}/{{ item.url }}" class="menu-link">{{ item.name }}</a>
     {% endfor %}
