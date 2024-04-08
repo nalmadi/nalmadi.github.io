@@ -16,13 +16,6 @@ This might seem simple, but include your full name, your preferred name in paren
 ### LinkedIn and GitHub
 Not sponsored by LinkedIn, but you should have an account, and you should include a link to your account on your resume.  More importantly for a techie (such as yourself), you should link your GitHub account on your resume.  I will talk more about what to put on your GitHub account in another point.
 
-### Summary
-Under your name and contacts, you can add a “mission statement” like single sentence about who you are and what you want.  For example something like this might be a good start:
-```math
-A motivated Computer Science Sophomore experienced in Python 
-looking for an internship in Data Science
-```
-
 ### Education Section
 Include information about your College/University, major/minor, Class Year, and GPA. Also, on a single line, you can add a list of courses that you have completed in the major/minor relevant to the position that you are applying for.  For an internship in tech, Data Structures and Algorithms is a key course that students typically seek internships after.
 
@@ -48,7 +41,7 @@ This is a section that shows that you are an above-average student with passion 
 Also, attend hackathons, join ACM and IEEE, volunteer for tech events near you.
 
 ### Skills
-You can list the programming languages, frameworks, and tools that you have on a single line.  I find it interesting when the skills line is followed by “currently learning” list of two to three items.
+You can list the programming languages, frameworks, and tools that you know on a single line.  I find it interesting when the skills line is followed by “currently learning” list of two to three items.
 
 ### Don’t overdo the graphics
 Make sure that you don’t overdo the graphics and colors.  A simple design is usually easy to read and more environmentally friendly to print.
