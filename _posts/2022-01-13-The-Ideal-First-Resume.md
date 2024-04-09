@@ -44,7 +44,12 @@ Also, attend hackathons, join ACM and IEEE, volunteer for tech events near you.
 You can list the programming languages, frameworks, and tools that you know on a single line.  I find it interesting when the skills line is followed by “currently learning” list of two to three items.
 
 ### Don’t overdo the graphics
-Make sure that you don’t overdo the graphics and colors.  A simple design is usually easy to read and more environmentally friendly to print.
+Make sure that you don’t overdo the graphics and colors.  A simple design is usually easy to read and more environmentally friendly to print.  Generally, the following things are not needed on your resume: Photo, a lot of unrelated experiances, long list of hobbies, full address, and more than one page in length (the page limit will change in the future).
+
+### Research and graduate school resume
+A student resume for a research position or graduate school is substantially different from an internship/tech job resume, here's an excellent video that goes what a research resume looks like:
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/B3oANa67Iq4?si=v3W8SIac5dg8Kwlo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 Look at that! You have a resume already, isn’t that awesome!  I would be happy to give you my opinion on your resume, and it does not hurt to get feedback from mentors or advisors.  I will wear sunglasses when I review your resume, because your future is so bright! 😎
 
