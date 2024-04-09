@@ -47,7 +47,7 @@ You can list the programming languages, frameworks, and tools that you know on a
 Make sure that you don’t overdo the graphics and colors.  A simple design is usually easy to read and more environmentally friendly to print.  Generally, the following things are not needed on your resume: Photo, a lot of unrelated experiances, long list of hobbies, full address, and more than one page in length (the page limit will change in the future).
 
 ### Research and graduate school resume
-A student resume for a research position or graduate school is substantially different from an internship/tech job resume, here's an excellent video that goes what a research resume looks like:
+A student resume for a research position or graduate school is substantially different from an internship/tech job resume, here's an excellent video that shows what a research resume looks like:
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/B3oANa67Iq4?si=v3W8SIac5dg8Kwlo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
