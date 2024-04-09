@@ -35,8 +35,8 @@ Notice the GitHub link at the end of the statement, the most important part of t
 
 ### Extracurricular Activities
 This is a section that shows that you are an above-average student with passion for tech.  You can join and include clubs like:
-1.	e-NABLE at Colby: A community for 3D printing prosthetics (contact Brunda Katikireddy ’24 to join).
-2.	Mocromouse: a community for building maze solving robots (I guess contact me if interested).
+1.	e-NABLE at Colby: A community for 3D printing prosthetics (contact Brunda Katikireddy to join).
+2.	Colby Robotics Team: a community for building robots (contact Richard Trinh and Cathy Fan to join).
 
 Also, attend hackathons, join ACM and IEEE, volunteer for tech events near you.
 
