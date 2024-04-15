@@ -33,15 +33,15 @@ Similarly, you can add a single statement about projects that you view as intere
 
 Notice the GitHub link at the end of the statement, the most important part of this section is that you have the code of each project to showcase.  This means that you will clean up your code and make sure that you have near perfect documentation before you post it on GitHub and link it on your resume.  As a reminder, Python has a style guide that you can use: [PEP 8 style guide](https://www.python.org/dev/peps/pep-0008/).
 
+### Skills
+You can list the programming languages, frameworks, and tools that you know on a single line.  I find it interesting when the skills line is followed by “currently learning” list of two to three items.
+
 ### Extracurricular Activities
 This is a section that shows that you are an above-average student with passion for tech.  You can join and include clubs like:
 1.	e-NABLE at Colby: A community for 3D printing prosthetics (contact Brunda Katikireddy to join).
 2.	Colby Robotics Team: a community for building robots (contact Richard Trinh and Cathy Fan to join).
 
 Also, attend hackathons, join ACM and IEEE, volunteer for tech events near you.
-
-### Skills
-You can list the programming languages, frameworks, and tools that you know on a single line.  I find it interesting when the skills line is followed by “currently learning” list of two to three items.
 
 ### Don’t overdo the graphics
 Make sure that you don’t overdo the graphics and colors.  A simple design is usually easy to read and more environmentally friendly to print.  Generally, the following things are not needed on your resume: Photo, a lot of unrelated experiences, long list of hobbies, full address, and more than one page in length (the page limit will change in the future).
