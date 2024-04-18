@@ -15,10 +15,6 @@ This post is part of a spotlight series highlighting the work of exceptional stu
 Today, I have the pleasure of talking to Nick Peterson '22, who will tell us about his experience a Software Engineer at Amazon.
 
 
-
-**Naser: Can you tell us about your role and responsibilities during your tech internship?**
-
-
 I'm Nick. I graduated in December 2022. At Colby I was involved in the Maine History and Food Club, a TA in the CS department, a tour guide, and I competed on XC and Track and Field. I completed an honors project on indoor BLE (Bluetooth Low Energy) Wayfinding with Professor Wolfe. My 300-level electives, all of which I loved, were 330/430 Databases with Prof. Doore, 353 Smart Systems with Prof. Wolfe, and Operating Systems with Prof. Al Madi!
 
 
