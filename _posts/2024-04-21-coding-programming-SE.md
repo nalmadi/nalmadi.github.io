@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "What's the difference between coding, programming, and software engineering?"
+title: "What's the Difference Between Coding, Programming, and Software Engineering?"
 author: "Naser"
 categories: post
 tags: Post
