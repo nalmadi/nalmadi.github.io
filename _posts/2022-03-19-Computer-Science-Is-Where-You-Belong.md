@@ -35,5 +35,3 @@ This is only a subset of a very long and diverse list of great figures who shape
 All I want to say in this short article, is that no matter your ethnicity, race, socioeconomic status, sex, gender, exceptionalities, language, religion, sexual orientation, programming experience, and geographical area you can succeed and lead in Computer Science.  We welcome you, and we need you!
 
 I hope that you will take a CS course soon.  You never know, you might be the next character in this beautiful and diverse story of human perseverance.   Computer Science is at its infancy as a field, and the future is yours to write! 
-
-(I must explain that “the future is yours to write” is a code pun, since computer scientists write code, get it? Okay, great, thanks!  Just wanted to make sure).
