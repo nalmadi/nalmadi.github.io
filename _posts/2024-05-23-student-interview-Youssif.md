@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Student Spotlight - Youssif Mostafa '26 (Grace Hopper Celebration)"
+title: "Student Spotlight - Youssif Mostafa '26 (Mawjam)"
 author: "Naser"
 categories: Interview
 tags: [Interview, student]
@@ -13,7 +13,7 @@ published: true
 This post is part of a spotlight series highlighting the work of exceptional students and alumni.  The series aims to facilitate knowledge sharing on topics such as internships, jobs, entrepreneurship, and graduate school.  
 
 
-Today, I have the pleasure of talking to Youssif Mostafa '26 about Mawjam, an entrepreneurial project that he started with Wyatt Tune '26.
+Today, I have the pleasure of talking to Youssif Mostafa '26 about Mawjam, an award winning entrepreneurial project that was started by Youssif Mostafa '26 and Wyatt Tune '26.
 
 
 Naser: Can you give us a brief overview of your startup? And what inspired you to start this project?
