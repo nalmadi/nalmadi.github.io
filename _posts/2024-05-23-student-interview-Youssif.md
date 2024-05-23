@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Student Spotlight - Youssif Mostafa '26 (Mawjam)"
+title: "Student Entrepreneur - Youssif Mostafa '26 (Mawjam)"
 author: "Naser"
 categories: Interview
 tags: [Interview, student]
