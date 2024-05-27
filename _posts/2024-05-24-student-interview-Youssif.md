@@ -4,7 +4,7 @@ title: "Student Entrepreneur - Youssif Mostafa '26 (Mawjam)"
 author: "Naser"
 categories: Interview
 tags: [Interview, student]
-image: Mawjam.jpeg
+image: Mawjam2.jpeg
 published: true
 ---
 <sup>Photo by Youssif Mostafa '26</sup>
