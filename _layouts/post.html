@@ -11,7 +11,7 @@ layout: default
   {% endif %}
   {% if page.image %}
     <div class="featured-image">
-      {% if 'http' page.image  %}
+      {% if page.image contains"http" %}
         <img src="{{ page.image }}">
       {% else %}
         <img src="{{ site.github.url }}/assets/img/{{ page.image }}">
