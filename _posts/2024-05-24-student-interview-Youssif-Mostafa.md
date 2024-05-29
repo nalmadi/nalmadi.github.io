@@ -4,7 +4,7 @@ title: "Student Entrepreneur - Youssif Mostafa '26 (Mawjam)"
 author: "Naser"
 categories: Interview
 tags: [Interview, student]
-<meta name="image" property="og:image" content="https://nalmadi.github.io/assets/img/Mawjam2.jpeg">
+og:image: https://nalmadi.github.io/assets/img/Mawjam2.jpeg
 image: Mawjam2.jpeg
 published: true
 ---
