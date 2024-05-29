@@ -7,6 +7,7 @@ tags: [Interview, student]
 image: Mawjam2.jpeg
 published: true
 ---
+<meta name="image" property="og:image" content="https://nalmadi.github.io/assets/img/Mawjam2.jpeg">
 <sup>Photo by Youssif Mostafa '26</sup>
   
 
