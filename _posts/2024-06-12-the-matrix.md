@@ -2,7 +2,7 @@
 layout: post
 title: "CS Professor Reviews Movies: The Matrix"
 author: "Naser"
-categories: post
+categories: post, Movies
 tags: Post
 image: https://nalmadi.github.io/assets/img/the-matrix.jpg
 ---
