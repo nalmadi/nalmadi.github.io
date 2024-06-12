@@ -7,8 +7,9 @@ disqus:
 google-ID: ''
 
 menu:
-- {name: 'Featured',      url: 'Featured'}
+- {name: 'Featured',   url: 'Featured'}
 - {name: 'Posts',      url: 'all-posts'}
+- {name: 'Movies',      url: 'Movies'}
 - {name: 'Interviews', url: 'Interviews'}
 # - {name: 'About',      url: 'https://cs.colby.edu/nsalmadi/'}
 
