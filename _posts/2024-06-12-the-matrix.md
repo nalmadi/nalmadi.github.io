@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "CS Professor Reviews Movies: The Matrix (1999)"
+title: "CS Professor Reviews Movies: The Matrix"
 author: "Naser"
 categories: post
 tags: Post
