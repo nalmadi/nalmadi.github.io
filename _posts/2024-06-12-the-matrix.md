@@ -27,6 +27,6 @@ The relationship between humans and technology in "The Matrix" is a twisted vers
 
 In conclusion, "The Matrix" serves not just as a philosophical exploration but as a mirror to our existential crisis in the age of technology. The choice between the beautiful lie and the ugly truth is not relegated to the realm of science fiction but is played out in the daily interactions we have with our technological creations. We think we are free because we can make choices, yet these choices are themselves part of the larger manipulation. Even our rebellion is anticipated and incorporated by the system. This is the perversion at the heart of our relationship with technology: it offers us infinite choices while making sure that none of these choices matter in the grand scheme.  The true challenge, then, is not merely to choose the red pill of reality but to question the very nature of the pills we are offered.
 
-In this new series I review movies that are relevant to AI, technology, and Computer Science.  Suggest a movie for the next review, if you like this one.
+In this series I review movies that are relevant to AI, technology, and Computer Science.  Suggest a movie for the next review, if you like this one.
 Note: This review was "written" with help from GPT-3.5 Turbo.
 
