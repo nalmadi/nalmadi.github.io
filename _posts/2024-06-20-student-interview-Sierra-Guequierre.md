@@ -4,10 +4,10 @@ title: "Alumna Spotlight - Sierra Guequierre '22 (Viam)"
 author: "Naser"
 categories: Interview
 tags: [Interview, student]
-image: https://nalmadi.github.io/assets/img/Screenshot 2024-06-01 at 10.31.02_AM -short.jpg
+image: https://nalmadi.github.io/assets/img/10.31.02_AM2.jpg
 published: true
 ---
-<meta name="image" property="og:image" content="https://nalmadi.github.io/assets/img/Screenshot 2024-06-01 at 10.31.02_AM -short.jpg">
+<meta name="image" property="og:image" content="https://nalmadi.github.io/assets/img/10.31.02_AM2.jpg">
 <sup>Photo by Sierra Guequierre '22 from the office.</sup>
   
 
