@@ -11,7 +11,11 @@
               <a href="{{ site.github.url }}{{ mypost.url }}">
                 <div class="related-thumbnail">
                   {% if mypost.image %}
-                    <img src="{{ site.url }}{{ site.baseurl }}/assets/img/{{ mypost.image }}">
+                    {% if mypost.image contains "http" %}
+                      <img src="{{ mypost.image }}">
+                    {% else %}
+                      <img src="{{ site.url }}{{ site.baseurl }}/assets/img/{{ mypost.image }}">
+                    {% endif %}
                   {% endif %}
                 </div>
                 <div class="related-title">
