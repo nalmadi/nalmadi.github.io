@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Student Spotlight - Zehra Gundogdu '25 (Enerjisa Uretim)"
+title: "Powering the Future: Zehra Gundogdu '25's Software Engineering Internship at Enerjisa Uretim"
 author: "Naser"
 categories: Interview
 tags: [Interview, student]
