@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Student Entrepreneur - Youssif Mostafa '26 (Mawjam)"
+title: "Empowering Homeowners with Solar Solutions: Youssif Mostafa ‘26 and Mawjam"
 author: "Naser"
 categories: Interview
 tags: [Interview, student]
