@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Alum Spotlight - Yixuan Qiu '22 (Harvard University)"
+title: "Yixuan Qiu '22's Experience as a Harvard Graduate Student"
 author: "Naser"
 categories: Interview
 tags: [Interview, student]
