@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Alumna Spotlight - Regan Bragg '21 (Disney)"
+title: "Colby Alumna Regan Bragg '21 on Her Path to Becoming a Disney Software Engineer"
 author: "Naser"
 categories: Interview
 tags: [Interview, student]
