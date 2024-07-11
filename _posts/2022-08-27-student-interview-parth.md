@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Student Spotlight - Parth Parth ‘25 (Omprakash)"
+title: "From Student to Teacher: Parth Parth ‘25 on Teaching Computer Literacy in Cambodia"
 author: "Naser"
 categories: Interview
 tags: [Interview, student]
