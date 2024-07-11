@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Student Entrepreneur - Trey Tuscai '25 (Dowsing)"
+title: "Discover and Review Water: Trey Tuscai ‘25 Talks About His Mobile App Dowsing"
 author: "Naser"
 categories: Interview
 tags: [Interview, student]
