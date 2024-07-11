@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Student Spotlight - Kelly Putnam '24 (The Jackson Laboratory)"
+title: "Code Meets Cancer Research: Kelly Putnam '24's Internship at The Jackson Laboratory"
 author: "Naser"
 categories: Interview
 tags: [Interview, student]
