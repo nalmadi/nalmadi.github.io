@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Student Spotlight - Jeffrey Asiedu-Brako (Microsoft Student Ambassador)"
+title: "Leading with Tech: Jeffrey Asiedu-Brako on His Role as a Microsoft Learn Student Ambassador"
 author: "Naser"
 categories: Interview
 tags: [Interview, student]
