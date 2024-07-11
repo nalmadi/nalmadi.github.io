@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Student Spotlight - Adaobi Nebuwa '24 (Grace Hopper Celebration)"
+title: "A Journey to Grace Hopper Celebration: Insights from Adaobi Nebuwa ‘24"
 author: "Naser"
 categories: Interview
 tags: [Interview, student]
