@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Alumna Spotlight - Sierra Guequierre '22 (Viam)"
+title: "Sierra Guequierre ‘22 - From Colby to Viam: Navigating Technical Writing in the Tech World"
 author: "Naser"
 categories: Interview
 tags: [Interview, student]
