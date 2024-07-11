@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Student Entrepreneur - Najam Tariq '26 (ParaAI)"
+title: "Transforming AI Writing: Najam Tariq '26 and ParaAI"
 author: "Naser"
 categories: Interview
 tags: [Interview, student]
