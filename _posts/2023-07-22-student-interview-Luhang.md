@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Alum Spotlight - Luhang Sun '22 (Product Manager)"
+title: "Behind the Scenes: A Day in the Life of Product Manager Luhang Sun '22"
 author: "Naser"
 categories: Interview
 tags: [Interview, student]
