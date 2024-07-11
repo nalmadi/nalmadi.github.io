@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Student Spotlight - Michael Ofori Tenkorang '26 (Microsoft)"
+title: "Inside the Xbox Team: Michael Ofori Tenkorang '26’s Internship Experience at Microsoft"
 author: "Naser"
 categories: Interview
 tags: [Interview, student]
