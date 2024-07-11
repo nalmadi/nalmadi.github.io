@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Student Spotlight - Brunda Katikireddy ‘24 (Uplight)"
+title: "Powering Sustainability: Brunda Katikireddy ‘24's Internship at Uplight"
 author: "Naser"
 categories: Interview
 tags: [Interview, student]
