@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Student Spotlight - Izzy Hurley ‘23 (Garmin)"
+title: "Coding for Adventure: Izzy Hurley ‘23’s Experience as a Garmin Intern"
 author: "Naser"
 categories: Interview
 tags: [Interview, student]
