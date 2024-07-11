@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Student Spotlight - Emmanuel Assumang ‘25 (Microsoft)"
+title: "Interning in Big Tech: Emmanuel Assumang ‘25’s Summer with Microsoft"
 author: "Naser"
 categories: Interview
 tags: [Interview, student]
