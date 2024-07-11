@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Student Spotlight - Quan Phan ‘25 (Holistics)"
+title: "Thriving in a Startup: Quan Phan ‘25’s Internship at Holistics Data"
 author: "Naser"
 categories: Interview
 tags: [Interview, student]
