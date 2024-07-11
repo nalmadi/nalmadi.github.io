@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Student Spotlight - Nafis Saadiq Bhuiyan '26 (SureStart)"
+title: "Real-World AI: Nafis Saadiq Bhuiyan ‘26’s Insights from SureStart"
 author: "Naser"
 categories: Interview
 tags: [Interview, student]
