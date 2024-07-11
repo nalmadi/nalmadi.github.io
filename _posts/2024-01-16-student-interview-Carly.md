@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Student Spotlight - Carly Levinsohn '24 (Amazon Music)"
+title: "Inside Amazon Music: Carly Levinsohn ‘24 Reflects on Her Software Engineering Internship"
 author: "Naser"
 categories: Interview
 tags: [Interview, student]
