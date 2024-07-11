@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Student Spotlight - Godfred Awuku '25 (LinkedIn)"
+title: "Inside LinkedIn: Godfred Awuku '25's Journey as a Software Engineering Intern"
 author: "Naser"
 categories: Interview
 tags: [Interview, student]
