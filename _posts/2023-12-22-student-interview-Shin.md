@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Student Spotlight - Shin Xinyue Wu '26 (hosstinn)"
+title: "From Colby to Barcelona: Shin Xinyue Wu '26 on Her Data Analyst Internship at hosstinn"
 author: "Naser"
 categories: Interview
 tags: [Interview, student]
