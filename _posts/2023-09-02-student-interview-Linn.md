@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Student Spotlight - Linn Cao Nguyen Phuong '24 (Credit Suisse)"
+title: "Banking on Code: Linn Cao Nguyen Phuong '24's Internship at Credit Suisse"
 author: "Naser"
 categories: Interview
 tags: [Interview, student]
