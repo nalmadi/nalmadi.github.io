@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Alumna Spotlight - Sierra Guequierre '22 (Viam)"
+title: "Inside the Life of a Technical Writer: Sierra Guequierre ‘22 Shares Her Viam Experience"
 author: "Naser"
 categories: Interview
 tags: [Interview, student]
