@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "From Colby to Blackstone: Insights from Collins Kibet '22 on Data Analytics, Career Prep, and the Job Hunt"
+title: "Insights from Collins Kibet '22 on Data Analytics, Career Prep, and the Job Hunt"
 author: "Naser"
 categories: Interview
 tags: [Interview, student]
