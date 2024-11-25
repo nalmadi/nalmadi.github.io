@@ -14,7 +14,7 @@ published: true
 This post is part of a spotlight series highlighting the work of exceptional students and alumni.  The series aims to facilitate knowledge sharing on topics such as internships, jobs, entrepreneurship, and graduate school.  
 
 
-Today, I have the pleasure of talking to Collins Kibet '22 about his experience as a Colby Alumna and a data analyst at Blackstone.
+Today, I have the pleasure of talking to Collins Kibet '22 about his experience as a Colby Alum and a data analyst at Blackstone.
 
 
 **Naser: Can you tell us a little about yourself?**
