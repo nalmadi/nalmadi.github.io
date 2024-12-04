@@ -44,7 +44,7 @@ This is a section that shows that you are an above-average student with passion 
 Also, attend hackathons, join ACM and IEEE, volunteer for tech events near you.
 
 ### Don’t overdo the graphics
-Make sure that you don’t overdo the graphics and colors.  A simple design is usually easy to read and more environmentally friendly to print.  Generally, the following things are not needed on your resume: Photo, a lot of unrelated experiences, long list of hobbies, full address, and more than one page in length (the page limit will change in the future).
+Make sure that you don’t overdo the graphics and colors.  A simple design is usually easy to read and more environmentally friendly to print.  Generally, the following things are not needed on your resume: Photo, a lot of unrelated experiences, long list of hobbies, full address, and more than one page in length (the page limit will change in the future).  UNC has a nice collection of [free templates](https://cs.unc.edu/experience/career/tech-resume-samples/).
 
 ### Research and graduate school resume
 A student resume for a research position or graduate school is substantially different from an internship/tech job resume, here's an excellent video that shows what a research resume looks like:
