@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Insights from Richard Trinh '26 on Data Analytics, Career Prep, and the Job Hunt"
+title: "Richard Trinh '26 on Navigating the Path to Software Engineering Success at Garmin"
 author: "Naser"
 categories: Interview
 tags: [Interview, student]
