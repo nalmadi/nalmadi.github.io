@@ -8,7 +8,7 @@ image: duy-pham-Cecb0_8Hx-o-unsplash.jpg
 ---
 
 
-What is in common between a 9th century Muslim polymath, a 19th century mathematician, a British WWII hero, and a 30-year-old obscure NASA employee? Bear with me as I explain.
+What is in common between a 9th century Muslim polymath, a 19th century mathematician, a British WWII hero, and a 30-year-old obscure NASA employee? Bare with me as I explain.
 
  ![Khwarizmi]({{site.baseurl}}/assets/img/Khwarizmi.png)
  
