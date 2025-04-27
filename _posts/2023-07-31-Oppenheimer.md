@@ -29,3 +29,5 @@ The process of creating larger and more powerful AI models without considering e
 
 
 To end on a more hopeful note (which is unusual for me), if we ever make ethical progress in AI in the future, it will be through the hands of engineers who are trained in Philosophy, Ethics, Linguistics, Art, and the humanities in general, along with their training in natural science.
+
+In this new series I review movies that are relevant to AI, technology, and Computer Science. Suggest a movie for the next review, if you like this one. Note: This review was "written" with help from GPT-3.5 Turbo.
