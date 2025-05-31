@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "From Code to Care: Tamsin Rogers '23 Building Tools to Understand the Brain at the Child Mind Institute"
+title: "Tamsin Rogers '23 Building Tools to Understand the Brain at the Child Mind Institute"
 author: "Naser"
 categories: Interview
 tags: [Interview, student]
