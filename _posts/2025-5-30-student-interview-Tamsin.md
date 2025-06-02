@@ -14,7 +14,7 @@ published: true
 This post is part of a spotlight series highlighting the work of exceptional students and alumni.  The series aims to facilitate knowledge sharing on topics such as internships, jobs, entrepreneurship, and graduate school.  
 
 
-Today, I have the pleasure of talking to Tamsin Rogers '23 about her work and experience as a Technical Specialist at Child Mind Institute.
+Today, I have the pleasure of talking to Tamsin Rogers '23 about her work and experience as a Technical Specialist at the Child Mind Institute.
 
 
 
