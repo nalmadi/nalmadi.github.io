@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "The Ideal First Resume"
+title: "The Ideal First Resume (with templates)"
 author: "Naser"
 categories: post, Featured
 tags: [post, Featured]
