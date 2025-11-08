@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "From Discord to Full-Stack: Mickey Zhang '27 Journey into Product Engineering"
+title: "From Discord to Full-Stack: Mickey Zhang's '27 Journey into Product Engineering"
 author: "Naser"
 categories: Interview
 tags: [Interview, student]
