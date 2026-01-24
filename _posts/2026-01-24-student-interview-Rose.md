@@ -101,7 +101,7 @@ LinkedIn Jobs page is also a great place to start because a lot of companies pos
 there.
 
 
-**Naser: What do you like most about your chosen major (CS)?**
+**Naser: What do you like most about your chosen major?**
 
 
 Rose: What I like most about my computer science major is how creative and empowering it
