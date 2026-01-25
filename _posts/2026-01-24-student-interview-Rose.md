@@ -106,9 +106,9 @@ there.
 
 Rose: What I like most about my computer science major is how creative and empowering it
 feels. I’ve found that CS isn’t just about writing code, but it's about solving problems, building
-things from scratch, and turning ideas into something real that people can actually use. I love
+things from scratch, and turning ideas into something real that people can actually use. 
 
-that moment when a project finally works after hours of debugging, or when a concept from
+I love that moment when a project finally works after hours of debugging, or when a concept from
 class suddenly clicks because I apply it in a real situation.
 I also enjoy the fact that there are so many different fields within computer science to explore
 whether it’s software engineering, AI, data science, or something completely new. I like the fact
