@@ -51,7 +51,11 @@ and learning stood out to me. I’ve always admired how the company supports gro
 encouraging people to contribute meaningfully from day one. So I chose this internship because
 I knew it would be the kind of environment where I could both learn a lot and also bring value to
 the team.
-Naser: Can you tell us about the interview process? And how did you prepare for it?
+
+
+**Naser: Can you tell us about the interview process? And how did you prepare for it?**
+
+
 Rose: The interview structure for most Salesforce internships is different depending on the
 specific organization within Salesforce that you’re interviewing for.
 For Slack specifically, I received materials about the structure of the interview which was
