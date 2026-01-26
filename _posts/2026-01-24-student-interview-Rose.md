@@ -60,7 +60,7 @@ Rose: The interview structure for most Salesforce internships is different depen
 specific organization within Salesforce that you’re interviewing for.
 For Slack specifically, I received materials about the structure of the interview which was
 basically a combination of technical and behavioral, and so I made sure I went through all the
-material and practiced beforehand. For the technical parts, I practiced leetcode questions with
+material and practiced beforehand. For the technical parts, I practiced Leetcode questions with
 some of my friends who were on campus with me during the summer. And I also went through
 my resume and made sure I could communicate clearly about my previous experiences during
 the behavioral parts of the interview.
@@ -75,7 +75,7 @@ coursework in computer science and software engineering. A lot of what I’ve le
 like problem-solving, writing clean code, and working through the full development process
 translated directly into the projects I worked on. But the internship also gave me perspectives I
 couldn’t get just from the classroom. There were several frameworks and tools that are simply
-not taught in classrooms and which I had to quickly learn on the job. I also got to see how real
+not taught in classrooms which I had to quickly learn on the job. I also got to see how real
 engineering teams collaborate, manage large codebases, and balance technical decisions with
 user needs. Experiencing that in a professional environment helped me understand how the
 computer science concepts I’m learning at Colby apply at scale, and it made me even more
