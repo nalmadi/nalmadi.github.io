@@ -53,7 +53,7 @@ I knew it would be the kind of environment where I could both learn a lot and al
 the team.
 
 
-**Naser: Can you tell us about the interview process? And how did you prepare for it?**
+**Naser: Can you tell us about the interview process? And how you prepared for it?**
 
 
 Rose: The interview structure for most Salesforce internships is different depending on the
