@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "From Code to Capital: A Conversation with Malcolm Barclay ’24 on Investment Banking and Software"
+title: "From Code to Capital: A Conversation with Malcolm Barclay ’24 on Software and Investment Banking"
 author: "Naser"
 categories: Interview
 tags: [Interview, student]
