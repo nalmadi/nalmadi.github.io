@@ -1,10 +1,10 @@
 ---
 layout: post
-title: "Curiosity, Community, and Code: Malcolm Barclay '24 on Her Journey to Salesforce"
+title: "From Code to Capital: A Conversation with Malcolm Barclay ’24 on Investment Banking and Software"
 author: "Naser"
 categories: Interview
 tags: [Interview, student]
-image: https://nalmadi.github.io/assets/img/1771961987428.jpg
+image: https://nalmadi.github.io/assets/img/Houlihan-Lokey-Malcolm.jpg
 published: true
 ---
 <meta name="image" property="og:image" content="https://nalmadi.github.io/assets/img/Tamsin.jpg">
