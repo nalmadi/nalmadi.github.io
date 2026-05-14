@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Yixin Li ’25 on the Path From Philosophy and CS to AI Product Management"
+title: "Yixin Li ’25 on the Path From Philosophy and CS to Social AI Product Management"
 author: "Naser"
 categories: Interview
 tags: [Interview, student]
