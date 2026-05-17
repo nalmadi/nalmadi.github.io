@@ -7,8 +7,8 @@ tags: [Interview, student]
 image: https://nalmadi.github.io/assets/img/Yixin_li_spotlight.jpg
 published: ture
 ---
-<meta name="image" property="og:image" content="https://nalmadi.github.io/assets/img/Tamsin.jpg">
-<sup>Photo credit: Malcolm Barclay.</sup>
+<meta name="image" property="og:image" content="https://nalmadi.github.io/assets/img/Yixin_li_spotlight.jpg">
+<sup>Photo credit: Yixin Li.</sup>
   
 
 This post is part of a spotlight series highlighting the work of exceptional students and alumni.  The series aims to facilitate knowledge sharing on topics such as internships, jobs, entrepreneurship, and graduate school.  
