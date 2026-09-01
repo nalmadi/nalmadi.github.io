@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "How to Start Applying to Summer 2026 Internships (𝗦𝘁𝗲𝗽-𝗯𝘆-𝗦𝘁𝗲𝗽)"
+title: "How to Start Applying for Summer 2026 Internships (𝗦𝘁𝗲𝗽-𝗯𝘆-𝗦𝘁𝗲𝗽)"
 author: "Naser"
 categories: post
 tags: post
