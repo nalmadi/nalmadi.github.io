@@ -5,6 +5,7 @@ author: "Naser"
 categories: post
 tags: Post
 image: CS-worth-it.png
+published: false
 ---
 
 Here's my first YouTube video, all feedback is welcome!
