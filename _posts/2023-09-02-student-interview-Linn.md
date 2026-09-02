@@ -4,7 +4,7 @@ title: "Banking on Code: Linn Cao Nguyen Phuong '24's Internship at Credit Suiss
 author: "Naser"
 categories: Interview
 tags: [Interview, student]
-image: IMG_2809.jpeg
+image: IMG_2809.jpg
 ---
 Photo by Linn Cao Nguyen Phuong '24
   
