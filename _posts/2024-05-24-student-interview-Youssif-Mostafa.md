@@ -4,7 +4,7 @@ title: "Empowering Homeowners with Solar Solutions: Youssif Mostafa ‘26 and Ma
 author: "Naser"
 categories: Interview
 tags: [Interview, student]
-image: https://nalmadi.github.io/assets/img/Mawjam2.jpeg
+image: https://nalmadi.github.io/assets/img/Mawjam2.jpg
 published: true
 ---
 <meta name="image" property="og:image" content="https://nalmadi.github.io/assets/img/Mawjam2.jpeg">
